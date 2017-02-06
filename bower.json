@@ -1,0 +1,26 @@
+{
+  "name": "movieGit",
+  "homepage": "https://github.com/cqiang1993/movieGit",
+  "authors": [
+    "chenqiang <cqiang1993@163.com>"
+  ],
+  "description": "imooc movie",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}

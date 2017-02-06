@@ -1,0 +1,32 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "jade": "^1.11.0",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.1",
+    "moment": "^2.17.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqiang1993/movieGit.git"
+  },
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "author": "CQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cqiang1993/movieGit/issues"
+  },
+  "homepage": "https://github.com/cqiang1993/movieGit#readme"
+}
